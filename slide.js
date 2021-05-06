@@ -1,4 +1,4 @@
-//Manuval
+//Manuval_Slide
 var slideIndex = 1;
 showSlides(slideIndex);
 
