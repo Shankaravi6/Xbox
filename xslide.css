@@ -76,6 +76,16 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 600px) {
   .prev, .next,.text {font-size: 11px}
 
-  
+  body{
+  overflow-x: hidden;
+  }
+
+  .slideshow-container img{
+    width:auto;
+    height:100%;
+    margin-left:  -750px;
+    text-align:center;
+    overflow-x: hidden;
+  }
 
 }
