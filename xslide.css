@@ -82,8 +82,8 @@ img {vertical-align: middle;}
 
   .slideshow-container img{
     width:auto;
-    height:100%;
-    margin-left:  -750px;
+    height:500px;
+    margin-left:  -700px;
     text-align:center;
     overflow-x: hidden;
   }
