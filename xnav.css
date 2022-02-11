@@ -136,6 +136,9 @@ color:black;
   .wrapper .btn{
     display: block;
   }
+  .wrapper .btn:hover{
+    color: #107C10;
+  }
   .wrapper .nav-links{
     position: fixed;
     height: 100vh;
@@ -149,7 +152,7 @@ color:black;
     line-height: 50px;
     overflow-y: auto;
     box-shadow: 0px 15px 15px rgba(0,0,0,0.18);
-    transition: all 0.3s ease;
+    transition: all 0.5s ease;
   }
   /* custom scroll bar */
   ::-webkit-scrollbar {
