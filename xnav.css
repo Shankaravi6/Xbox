@@ -4,13 +4,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+
 nav{
-  position: absolute;
+  position: fixed;
   z-index: 99;
   width: 100%;
   background:white;
   font-family: 'Verdana', sans-serif;
   font-variant: small-caps;
+  box-shadow:0px 5px 10px 0px rgba(0,0,0,0.2);
 }
 
 nav .wrapper{
